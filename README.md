@@ -1,4 +1,6 @@
-## Hi there 👋
+# Привет 👋
+Я Коля и я начинающий frontend разработчек.
+
 
 <!--
 **Jester0996/Jester0996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
